@@ -2,8 +2,8 @@
  * @file InputProcedure.hpp
  * @author Lingzhou Ai (https://github.com/NaraC6H6Cl6/)
  * @brief 
- * @version 0.1
- * @date 2022-11-17
+ * @version 0.2
+ * @date 2022-11-30
  * 
  * @copyright Copyright (c) 2022
  * 
